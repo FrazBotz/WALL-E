@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://i.imgur.com/aXe22jG.jpeg" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://i.imgur.com/drj1YAC.jpeg" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">WALL-E</h1>
 
