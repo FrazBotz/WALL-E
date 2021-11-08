@@ -1,5 +1,5 @@
 {
-  "name": "Eva",
+  "name": "WALL-E",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudoAnirudh/E-V-A.git"
+    "url": "git+https://github.com/FrazBotz/WALL-E.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "SudoAnirudh",
+  "author": "FrazBoy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SudoAnirudh/E-V-A/issues"
+    "url": "https://github.com/FrazBotz/WALL-E/issues"
   },
-  "homepage": "https://github.com/SudoAnirudh/E-V-A",
+  "homepage": "https://github.com/FrazBotz/WALL-E",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "awesome-phonenumber": "^2.54.0",
