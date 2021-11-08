@@ -1,11 +1,11 @@
 let pajak = 0.02
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-  let fail = `this command to give XP to another user\n\nexample:\n${usedPrefix + command} @919539102851 10\nor reply to doi's message with the command: ${usedPrefix + command} 10`
+  let fail = `this command to give XP to another user\n\nexample:\n${usedPrefix + command} @917994929427 10\nor reply to doi's message with the command: ${usedPrefix + command} 10`
   let who
   if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted.sender
   else who = m.chat
   if (!who) {
-    conn.reply(m.chat, fail, m, { contextInfo: { mentionedJid: ['919539102851@s.whatsapp.net'] } })
+    conn.reply(m.chat, fail, m, { contextInfo: { mentionedJid: ['7994929427@s.whatsapp.net'] } })
     throw false
   }
   if (typeof global.db.data.users[who] == "undefined") {
